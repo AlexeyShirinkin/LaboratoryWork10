@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<subjects>
+  <maxWeight>
+    10
+  </maxWeight>
+  <subject>
+    <cost>50</cost>
+    <weight>1</weight>
+  </subject>
+  <subject>
+    <cost>700</cost>
+    <weight>9</weight>
+  </subject>
+  <subject>
+    <cost>300</cost>
+    <weight>2</weight>
+  </subject>
+  <subject>
+    <cost>200</cost>
+    <weight>3</weight>
+  </subject>
+  <subject>
+    <cost>500</cost>
+    <weight>5</weight>
+  </subject>
+</subjects>
